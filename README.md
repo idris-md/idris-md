@@ -1,5 +1,5 @@
 <img src="https://gifimage.net/wp-content/uploads/2017/10/coding-gif-10.gif" align="left" height="300" width="auto" />  
-  
+ <br/>
 
 ## <div align="center">Hi,  I'm Idris Muhammad 🇳🇬</div>  
   
